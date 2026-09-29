@@ -1,9 +1,9 @@
-﻿Age of Reforging: The Freelands 日本語再翻訳パッチ v5.2（差分版）
+﻿Age of Reforging: The Freelands 日本語再翻訳パッチ v5.3（差分版）
 
 ■ 導入方法
-1. この「AoR_日本語化パッチ_v5.2」フォルダを、フォルダごとゲーム本体のexeと同じ場所
+1. この「AoR_日本語化パッチ_v5.3」フォルダを、フォルダごとゲーム本体のexeと同じ場所
    （「Age of Reforging The Freelands_Data」フォルダと同じ階層）に置きます。
-   例：...\steamapps\common\Age of Reforging The Freelands\AoR_日本語化パッチ_v5.2\
+   例：...\steamapps\common\Age of Reforging The Freelands\AoR_日本語化パッチ_v5.3\
 2. フォルダ内の install.bat を実行します。
    ・お使いのPCにある元の resources.assets から、日本語化したファイルをその場で作ります
      （1分ほどかかる場合があります。Windows 10/11 標準の PowerShell を使います）。
@@ -21,6 +21,9 @@
 ・ゲームのアップデートで resources.assets が更新されると、パッチは外れます。
   その場合は、アップデート後のファイルに対応した新しい版が必要です。
 ・このフォルダの中身はゲームのファイルそのものではなく、翻訳の差分データです。
+
+■ v5.3 の変更点（v5.2からの更新）
+・段平の表記を東方系人名のルールに合わせ「ドゥアン・ピン」に変更
 
 ■ v5.2 の変更点（v5.1からの更新）
 ・東方系NPCの名前（中国名）をカタカナに統一（例：玉練→ユー・リエン、雪飛→シュエ・フェイ）。人物紹介では初出のみ漢字を併記

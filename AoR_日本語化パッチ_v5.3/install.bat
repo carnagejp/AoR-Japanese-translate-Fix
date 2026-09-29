@@ -4,7 +4,7 @@ set "PATCHDIR=%~dp0"
 for %%I in ("%PATCHDIR%..") do set "GAMEROOT=%%~fI"
 
 echo ============================================================
-echo AoR Japanese Retranslation Patch v5.2
+echo AoR Japanese Retranslation Patch v5.3
 echo (このフォルダをゲーム本体のexeと同じフォルダに置いて実行してください)
 echo ============================================================
 echo Patch folder : %PATCHDIR%
